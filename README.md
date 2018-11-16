@@ -1,6 +1,6 @@
 # Node.js rest api with promises
 
-Super simple statless REST api in Node.js with promises.
+Super simple statless rest api in Node.js with promises.
 
 #TODO
 - Add tests
